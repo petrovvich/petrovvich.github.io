@@ -197,5 +197,10 @@
 
   render(pickLang());
   alignToName();
+
+  // Each alphabet is a separate font file that loads only when first used. Fetch them all now,
+  // so switching language does not flash a fallback font.
+  ["500 1em Unbounded", "400 1em 'Golos Text'", "400 1em 'JetBrains Mono'"].forEach((font) =>
+    document.fonts.load(font, "Aa Яя Ññ").catch(() => {}));
   new ResizeObserver(alignToName).observe($("name"));
 })();
