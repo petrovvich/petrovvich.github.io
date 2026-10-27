@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://petrovvich.github.io/sitemap.xml

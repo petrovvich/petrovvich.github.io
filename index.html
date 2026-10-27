@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aleksandr Romaniuk, Full Cycle Engineer</title>
+  <meta name="description" content="Full cycle engineer, 10+ years in fintech: Java backend, DevOps, credit risk and scoring platforms.">
+  <link rel="canonical" href="https://petrovvich.github.io/">
+  <link rel="alternate" hreflang="en" href="https://petrovvich.github.io/?lang=en">
+  <link rel="alternate" hreflang="ru" href="https://petrovvich.github.io/?lang=ru">
+  <link rel="alternate" hreflang="es" href="https://petrovvich.github.io/?lang=es">
+  <link rel="alternate" hreflang="x-default" href="https://petrovvich.github.io/">
+
+  <meta property="og:type" content="profile">
+  <meta property="og:url" content="https://petrovvich.github.io/">
+  <meta property="og:title" content="Aleksandr Romaniuk, Full Cycle Engineer">
+  <meta property="og:description" content="Backend (Java), Frontend (React), DevOps, team leadership, FinTech, risk management. 10+ years in fintech.">
+  <meta property="og:image" content="https://petrovvich.github.io/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="ru_RU">
+  <meta property="og:locale:alternate" content="es_AR">
+  <meta property="profile:first_name" content="Aleksandr">
+  <meta property="profile:last_name" content="Romaniuk">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <meta name="theme-color" content="#f2f4f6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121a26" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+  <script>
+    // Apply the saved theme before first paint to avoid a flash.
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://petrovvich.github.io/#person",
+    "name": "Aleksandr Romaniuk",
+    "alternateName": "Александр Романюк",
+    "jobTitle": "Full Cycle Engineer",
+    "url": "https://petrovvich.github.io/",
+    "email": "mailto:alexromantrue@gmail.com",
+    "image": "https://petrovvich.github.io/og.png",
+    "address": { "@type": "PostalAddress", "addressLocality": "Buenos Aires", "addressCountry": "AR" },
+    "worksFor": { "@type": "Organization", "name": "4finance", "url": "https://www.4finance.com/" },
+    "alumniOf": { "@type": "CollegeOrUniversity", "name": "Moscow Witte University" },
+    "knowsLanguage": ["ru", "en", "es"],
+    "knowsAbout": ["Java", "Kotlin", "Spring Boot", "React", "Kubernetes", "DevOps", "Risk management", "FinTech", "BPMN", "RAG", "MCP"],
+    "sameAs": [
+      "https://github.com/petrovvich",
+      "https://habr.com/ru/users/petrovvich/",
+      "https://t.me/javaminds"
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="fonts/fonts.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#main" id="skip">Skip to content</a>
+
+  <header class="top">
+    <div class="controls">
+      <div class="langs" role="group" aria-label="Language">
+        <button type="button" data-lang="en">EN</button>
+        <button type="button" data-lang="ru">RU</button>
+        <button type="button" data-lang="es">ES</button>
+      </div>
+      <div class="actions">
+        <button type="button" class="theme" id="theme">
+          <svg class="icon sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+        </button>
+        <a class="pdf" id="pdf" href="resume-en.pdf" download></a>
+      </div>
+    </div>
+    <h1 class="name" id="name"></h1>
+    <p class="role" id="role"></p>
+    <p class="focus" id="focus"></p>
+    <p class="where" id="where"></p>
+    <ul class="contacts" id="contacts"></ul>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <section class="summary" id="summary" aria-labelledby="h-summary">
+      <h2 id="h-summary" class="visually-hidden"></h2>
+    </section>
+
+    <section aria-labelledby="h-exp">
+      <h2 id="h-exp"></h2>
+      <ol class="timeline" id="timeline"></ol>
+    </section>
+
+    <section aria-labelledby="h-skills">
+      <h2 id="h-skills"></h2>
+      <dl class="skills" id="skills"></dl>
+    </section>
+
+    <section class="facts" aria-label="Education and languages">
+      <div>
+        <h2 id="h-edu"></h2>
+        <p id="edu"></p>
+      </div>
+      <div>
+        <h2 id="h-langs"></h2>
+        <ul id="langs"></ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="bottom">
+    <section class="cta" aria-labelledby="h-cta">
+      <h2 id="h-cta"></h2>
+      <p id="cta-text"></p>
+      <a class="cta-button" id="cta-button" href="mailto:alexromantrue@gmail.com"></a>
+    </section>
+    <p class="updated" id="updated"></p>
+  </footer>
+
+  <noscript><p class="noscript">Aleksandr Romaniuk, Full Cycle Engineer. Email: alexromantrue@gmail.com. PDF: <a href="resume-en.pdf">resume-en.pdf</a></p></noscript>
+  <script src="content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
