@@ -97,7 +97,7 @@ const CONTENT = {
     ],
     jobs: {
       "4finance": {
-        company: "4finance",
+        company: "Digital Finance International",
         about: "International online lending group",
         title: "Senior / Lead Java Developer",
         intro: "Risk management platform: up to 10,000 requests a day, depending on the country.",
@@ -274,7 +274,7 @@ const CONTENT = {
     ],
     jobs: {
       "4finance": {
-        company: "4finance",
+        company: "Digital Finance International",
         about: "Международный холдинг онлайн-кредитования",
         title: "Senior / Lead Java Developer",
         intro: "Платформа риск-менеджмента: до 10&nbsp;000 запросов в сутки в зависимости от страны.",
@@ -451,7 +451,7 @@ const CONTENT = {
     ],
     jobs: {
       "4finance": {
-        company: "4finance",
+        company: "Digital Finance International",
         about: "Grupo internacional de préstamos online",
         title: "Senior / Lead Java Developer",
         intro: "Plataforma de gestión de riesgos: hasta 10.000 solicitudes diarias, según el país.",
