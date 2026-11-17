@@ -2,7 +2,7 @@
 // Empty contact values are hidden on the page.
 
 // Month the content was last revised; shown in the footer.
-const UPDATED = "2026-10";
+const UPDATED = "2026-11";
 
 const SITE_URL = "https://petrovvich.github.io/";
 
@@ -102,7 +102,7 @@ const CONTENT = {
         title: "Senior / Lead Java Developer",
         intro: "Risk management platform: up to 10,000 requests a day, depending on the country.",
         bullets: [
-          "Moved away from Camunda to an in-house solution. Business processes now run on it.",
+          "Moved away from Camunda to an in-house solution and moved business processes onto it: 90% of tasks are now done in a visual editor without a developer, saving 160 developer hours a month on average.",
           "Moved the platform to Java 25 and Spring Boot 4.",
           "Replaced Redis with a fault-tolerant Infinispan cluster.",
           "Moved all scoring services to Kubernetes clusters and switched deployment to GitOps with Helm.",
@@ -279,7 +279,7 @@ const CONTENT = {
         title: "Senior / Lead Java Developer",
         intro: "Платформа риск-менеджмента: до 10&nbsp;000 запросов в сутки в зависимости от страны.",
         bullets: [
-          "Реализовал отказ от Camunda в пользу собственного решения. Бизнес-процессы переведены на него.",
+          "Реализовал отказ от Camunda в пользу собственного решения и перевел на него бизнес-процессы: 90% задач решаются в графическом редакторе без участия разработчика, экономия на разработке в среднем 160&nbsp;человекочасов в месяц.",
           "Перевел платформу на Java 25 и Spring Boot 4.",
           "Заменил Redis отказоустойчивым кластером Infinispan.",
           "Перенес все сервисы скоринга в кластеры Kubernetes, перевел деплой на GitOps через Helm.",
@@ -456,7 +456,7 @@ const CONTENT = {
         title: "Senior / Lead Java Developer",
         intro: "Plataforma de gestión de riesgos: hasta 10.000 solicitudes diarias, según el país.",
         bullets: [
-          "Implementé el abandono de Camunda en favor de una solución propia. Los procesos de negocio ya corren sobre ella.",
+          "Implementé el abandono de Camunda en favor de una solución propia y migré a ella los procesos de negocio: el 90% de las tareas se resuelve en un editor gráfico sin desarrolladores, con un ahorro medio de 160 horas-persona de desarrollo al mes.",
           "Migré la plataforma a Java 25 y Spring Boot 4.",
           "Reemplacé Redis por un clúster Infinispan tolerante a fallos.",
           "Migré todos los servicios de scoring a clústeres Kubernetes y pasé el despliegue a GitOps con Helm.",
