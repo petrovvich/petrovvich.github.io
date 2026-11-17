@@ -89,7 +89,7 @@ const CONTENT = {
     },
     name: "Aleksandr Romaniuk",
     role: "Full Cycle Engineer",
-    focus: "Backend (Java), Frontend (React), DevOps, team leadership, FinTech, risk management",
+    focus: "AI (LLM, MCP, RAG), Backend (Java), Frontend (React), DevOps, team leadership, FinTech, risk management",
     where: "Buenos Aires, Argentina (GMT−3). Open to remote work",
     summary: [
       "Full cycle engineer with 10+ years in fintech: from requirements and architecture to Java code, infrastructure, production support and team leadership. My flagship work is a risk management system that serves the business in 5 countries.",
@@ -266,7 +266,7 @@ const CONTENT = {
     },
     name: "Александр Романюк",
     role: "Full Cycle Engineer",
-    focus: "Бэкенд (Java), Фронтенд (React), DevOps, руководство командой, FinTech, risk management",
+    focus: "AI (LLM, MCP, RAG), Бэкенд (Java), Фронтенд (React), DevOps, руководство командой, FinTech, risk management",
     where: "Буэнос-Айрес, Аргентина (GMT−3). Рассматриваю удаленную работу",
     summary: [
       "Full cycle engineer, более 10 лет в финтехе: от требований и архитектуры до Java-кода, инфраструктуры, поддержки продакшена и руководства командой. Мое детище — риск-менеджмент система, обслуживающая бизнес в 5 странах.",
@@ -443,7 +443,7 @@ const CONTENT = {
     },
     name: "Aleksandr Romaniuk",
     role: "Full Cycle Engineer",
-    focus: "Backend (Java), Frontend (React), DevOps, liderazgo de equipos, FinTech, risk management",
+    focus: "AI (LLM, MCP, RAG), Backend (Java), Frontend (React), DevOps, liderazgo de equipos, FinTech, risk management",
     where: "Buenos Aires, Argentina (GMT−3). Disponible para trabajo remoto",
     summary: [
       "Full cycle engineer con más de 10 años en fintech: desde requisitos y arquitectura hasta código Java, infraestructura, soporte en producción y liderazgo de equipos. Mi proyecto insignia es un sistema de gestión de riesgos que da servicio al negocio en 5 países.",
