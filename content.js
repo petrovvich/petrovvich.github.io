@@ -57,8 +57,8 @@ const SKILLS_STACK = {
 const CONTENT = {
   en: {
     meta: {
-      title: "Aleksandr Romaniuk, Full Cycle Engineer",
-      description: "Full cycle engineer, 10+ years in fintech: Java backend, DevOps, credit risk and scoring platforms.",
+      title: "Aleksandr Romaniuk, Full Cycle Software Engineer",
+      description: "Full cycle software engineer, 10+ years in fintech: Java backend, DevOps, credit risk and scoring platforms.",
     },
     ui: {
       pdf: "Download PDF",
@@ -88,11 +88,11 @@ const CONTENT = {
       channel: "Telegram channel",
     },
     name: "Aleksandr Romaniuk",
-    role: "Full Cycle Engineer",
+    role: "Full Cycle Software Engineer",
     focus: "AI (LLM, MCP, RAG), Backend (Java), Frontend (React), DevOps, team leadership, FinTech, risk management",
     where: "Buenos Aires, Argentina (GMT−3). Open to remote work",
     summary: [
-      "Full cycle engineer with 10+ years in fintech: from requirements and architecture to Java code, infrastructure, production support and team leadership. My flagship work is a risk management system that serves the business in 5 countries.",
+      "Full cycle software engineer with 10+ years in fintech: from requirements and architecture to Java code, infrastructure, production support and team leadership. My flagship work is a risk management system that serves the business in 5 countries.",
       "I build microservices on Java, Kotlin and Spring, design decision flows, and take them all the way to production: Kubernetes, CI/CD, monitoring, incidents. I have led small and mid-sized teams, hired a lot of in-house engineers, and give talks online and in person in Buenos Aires. I write on Habr and in my own Telegram channel. Fluent with AI: I use it every day and roll it out across the company.",
     ],
     jobs: {
@@ -234,8 +234,8 @@ const CONTENT = {
 
   ru: {
     meta: {
-      title: "Александр Романюк, Full Cycle Engineer",
-      description: "Full Cycle Engineer, более 10 лет в финтехе: Java-бэкенд, DevOps, платформы кредитного риска и скоринга.",
+      title: "Александр Романюк, Full Cycle Software Engineer",
+      description: "Full Cycle Software Engineer, более 10 лет в финтехе: Java-бэкенд, DevOps, платформы кредитного риска и скоринга.",
     },
     ui: {
       pdf: "Скачать PDF",
@@ -265,11 +265,11 @@ const CONTENT = {
       channel: "Telegram-канал",
     },
     name: "Александр Романюк",
-    role: "Full Cycle Engineer",
+    role: "Full Cycle Software Engineer",
     focus: "AI (LLM, MCP, RAG), Бэкенд (Java), Фронтенд (React), DevOps, руководство командой, FinTech, risk management",
     where: "Буэнос-Айрес, Аргентина (GMT−3). Рассматриваю удаленную работу",
     summary: [
-      "Full cycle engineer, более 10 лет в финтехе: от требований и архитектуры до Java-кода, инфраструктуры, поддержки продакшена и руководства командой. Мое детище — риск-менеджмент система, обслуживающая бизнес в 5 странах.",
+      "Full cycle software engineer, более 10 лет в финтехе: от требований и архитектуры до Java-кода, инфраструктуры, поддержки продакшена и руководства командой. Мое детище — риск-менеджмент система, обслуживающая бизнес в 5 странах.",
       "Пишу микросервисы на Java, Kotlin и Spring, проектирую процессы принятия решений и довожу их до продакшена: Kubernetes, CI/CD, мониторинг, разбор инцидентов. Руководил небольшими и средними командами, много нанимал в штат, читал и читаю доклады онлайн и офлайн в Буэнос-Айресе. Пишу на Хабр и в свой канал в Telegram. С AI на ты: активно использую его в жизни и внедряю в компании.",
     ],
     jobs: {
@@ -411,8 +411,8 @@ const CONTENT = {
 
   es: {
     meta: {
-      title: "Aleksandr Romaniuk, Full Cycle Engineer",
-      description: "Full cycle engineer, más de 10 años en fintech: backend Java, DevOps, plataformas de riesgo crediticio y scoring.",
+      title: "Aleksandr Romaniuk, Full Cycle Software Engineer",
+      description: "Full cycle software engineer, más de 10 años en fintech: backend Java, DevOps, plataformas de riesgo crediticio y scoring.",
     },
     ui: {
       pdf: "Descargar PDF",
@@ -442,11 +442,11 @@ const CONTENT = {
       channel: "Canal de Telegram",
     },
     name: "Aleksandr Romaniuk",
-    role: "Full Cycle Engineer",
+    role: "Full Cycle Software Engineer",
     focus: "AI (LLM, MCP, RAG), Backend (Java), Frontend (React), DevOps, liderazgo de equipos, FinTech, risk management",
     where: "Buenos Aires, Argentina (GMT−3). Disponible para trabajo remoto",
     summary: [
-      "Full cycle engineer con más de 10 años en fintech: desde requisitos y arquitectura hasta código Java, infraestructura, soporte en producción y liderazgo de equipos. Mi proyecto insignia es un sistema de gestión de riesgos que da servicio al negocio en 5 países.",
+      "Full cycle software engineer con más de 10 años en fintech: desde requisitos y arquitectura hasta código Java, infraestructura, soporte en producción y liderazgo de equipos. Mi proyecto insignia es un sistema de gestión de riesgos que da servicio al negocio en 5 países.",
       "Desarrollo microservicios con Java, Kotlin y Spring, diseño flujos de decisión y los llevo hasta producción: Kubernetes, CI/CD, monitoreo, incidentes. He liderado equipos pequeños y medianos, contratado a muchos ingenieros en plantilla y doy charlas online y presenciales en Buenos Aires. Escribo en Habr y en mi canal de Telegram. Me manejo con soltura con la IA: la uso a diario y la implemento en la empresa.",
     ],
     jobs: {
