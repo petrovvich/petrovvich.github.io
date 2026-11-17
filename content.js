@@ -104,7 +104,7 @@ const CONTENT = {
         bullets: [
           "Moved away from Camunda to an in-house solution and moved business processes onto it: 90% of tasks are now done in a visual editor without a developer, saving 160 developer hours a month on average.",
           "Moved the platform to Java 25 and Spring Boot 4: memory usage down 60%, p95 scoring time down 10x, from 60 to 6 seconds.",
-          "Replaced Redis with a fault-tolerant Infinispan cluster.",
+          "Replaced Redis with a fault-tolerant Infinispan cluster: incidents caused by cache unavailability and the related error rate dropped to zero.",
           "Moved all scoring services to Kubernetes clusters and switched deployment to GitOps with Helm.",
           "Improved observability: alerts in Prometheus Alertmanager, Grafana dashboards synced through git, logs in a single store.",
           "Launched a Backstage developer portal that publishes OpenAPI specifications and release reports, plus a service that collects Trivy vulnerability scan reports.",
@@ -281,7 +281,7 @@ const CONTENT = {
         bullets: [
           "Реализовал отказ от Camunda в пользу собственного решения и перевел на него бизнес-процессы: 90% задач решаются в графическом редакторе без участия разработчика, экономия на разработке в среднем 160&nbsp;человекочасов в месяц.",
           "Перевел платформу на Java 25 и Spring Boot 4: потребление памяти снизилось на 60%, время скоринга p95 сократилось в 10 раз, с 60 до 6&nbsp;секунд.",
-          "Заменил Redis отказоустойчивым кластером Infinispan.",
+          "Заменил Redis отказоустойчивым кластером Infinispan: аварии из-за недоступности кэша и связанные с ними ошибки сведены к нулю.",
           "Перенес все сервисы скоринга в кластеры Kubernetes, перевел деплой на GitOps через Helm.",
           "Повысил наблюдаемость: алерты в Prometheus Alertmanager, дашборды в Grafana с синхронизацией через git, логи в едином хранилище.",
           "Запустил портал разработчиков на Backstage с публикацией OpenAPI-спецификаций и отчетов о релизах и сервис сбора отчетов сканера уязвимостей Trivy.",
@@ -458,7 +458,7 @@ const CONTENT = {
         bullets: [
           "Implementé el abandono de Camunda en favor de una solución propia y migré a ella los procesos de negocio: el 90% de las tareas se resuelve en un editor gráfico sin desarrolladores, con un ahorro medio de 160 horas-persona de desarrollo al mes.",
           "Migré la plataforma a Java 25 y Spring Boot 4: el consumo de memoria bajó un 60% y el tiempo de scoring p95 se redujo 10 veces, de 60 a 6 segundos.",
-          "Reemplacé Redis por un clúster Infinispan tolerante a fallos.",
+          "Reemplacé Redis por un clúster Infinispan tolerante a fallos: los incidentes por indisponibilidad de la caché y los errores asociados bajaron a cero.",
           "Migré todos los servicios de scoring a clústeres Kubernetes y pasé el despliegue a GitOps con Helm.",
           "Mejoré la observabilidad: alertas en Prometheus Alertmanager, dashboards de Grafana sincronizados a través de git, logs en un almacenamiento único.",
           "Lancé un portal para desarrolladores en Backstage que publica especificaciones OpenAPI y reportes de releases, y un servicio que recopila los reportes del escáner de vulnerabilidades Trivy.",
