@@ -93,7 +93,7 @@ const CONTENT = {
     where: "Buenos Aires, Argentina (GMT−3). Open to remote work",
     summary: [
       "Full cycle software engineer with 10+ years in fintech: from requirements and architecture to Java code, infrastructure, production support and team leadership. My flagship work is a risk management system that serves the business in 5 countries.",
-      "I build microservices, services, distributed monoliths and monoliths on Java, Kotlin and Spring, design decision flows, and take them all the way to production: Kubernetes, CI/CD, monitoring, incidents. I have led small and mid-sized teams, hired a lot of in-house engineers, and give talks online and in person in Buenos Aires. I write on Habr and in my own Telegram channel. Fluent with AI: I use it every day and roll it out across the company.",
+      "I build microservices, services, distributed monoliths and monoliths on Java, Kotlin and Spring, design decision flows, and take them all the way to production: Kubernetes, CI/CD, monitoring, incidents. I have led small and mid-sized teams, hired a lot of in-house engineers, and give talks online and in person in Buenos Aires. I write on Habr and in my own Telegram channel. Fluent with AI: I use it every day and build it into the company's processes.",
     ],
     jobs: {
       "4finance": {
@@ -270,7 +270,7 @@ const CONTENT = {
     where: "Буэнос-Айрес, Аргентина (GMT−3). Рассматриваю удаленную работу",
     summary: [
       "Full cycle software engineer, более 10 лет в финтехе: от требований и архитектуры до Java-кода, инфраструктуры, поддержки продакшена и руководства командой. Мое детище — риск-менеджмент система, обслуживающая бизнес в 5 странах.",
-      "Пишу микросервисы, сервисы, распределенные монолиты и монолиты на Java, Kotlin и Spring, проектирую процессы принятия решений и довожу их до продакшена: Kubernetes, CI/CD, мониторинг, разбор инцидентов. Руководил небольшими и средними командами, много нанимал в штат, читал и читаю доклады онлайн и офлайн в Буэнос-Айресе. Пишу на Хабр и в свой канал в Telegram. С AI на ты: активно использую его в жизни и внедряю в компании.",
+      "Пишу микросервисы, сервисы, распределенные монолиты и монолиты на Java, Kotlin и Spring, проектирую процессы принятия решений и довожу их до продакшена: Kubernetes, CI/CD, мониторинг, разбор инцидентов. Руководил небольшими и средними командами, много нанимал в штат, читал и читаю доклады онлайн и офлайн в Буэнос-Айресе. Пишу на Хабр и в свой канал в Telegram. С AI на ты: активно использую его в жизни и внедряю в процессы компании.",
     ],
     jobs: {
       "4finance": {
@@ -447,7 +447,7 @@ const CONTENT = {
     where: "Buenos Aires, Argentina (GMT−3). Disponible para trabajo remoto",
     summary: [
       "Full cycle software engineer con más de 10 años en fintech: desde requisitos y arquitectura hasta código Java, infraestructura, soporte en producción y liderazgo de equipos. Mi proyecto insignia es un sistema de gestión de riesgos que da servicio al negocio en 5 países.",
-      "Desarrollo microservicios, servicios, monolitos distribuidos y monolitos con Java, Kotlin y Spring, diseño flujos de decisión y los llevo hasta producción: Kubernetes, CI/CD, monitoreo, incidentes. He liderado equipos pequeños y medianos, contratado a muchos ingenieros en plantilla y doy charlas online y presenciales en Buenos Aires. Escribo en Habr y en mi canal de Telegram. Me manejo con soltura con la IA: la uso a diario y la implemento en la empresa.",
+      "Desarrollo microservicios, servicios, monolitos distribuidos y monolitos con Java, Kotlin y Spring, diseño flujos de decisión y los llevo hasta producción: Kubernetes, CI/CD, monitoreo, incidentes. He liderado equipos pequeños y medianos, contratado a muchos ingenieros en plantilla y doy charlas online y presenciales en Buenos Aires. Escribo en Habr y en mi canal de Telegram. Me manejo con soltura con la IA: la uso a diario y la integro en los procesos de la empresa.",
     ],
     jobs: {
       "4finance": {
