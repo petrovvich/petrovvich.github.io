@@ -108,7 +108,7 @@ const CONTENT = {
           "Moved all scoring services to Kubernetes clusters and switched deployment to GitOps with Helm. Set up zero-downtime rolling deploys and rollbacks: releases went up 5x, from 12 to 60 a week.",
           "Improved observability: over 30 alerts in Prometheus Alertmanager, a single Grafana dashboard with all operational metrics synced through git, logs in a single store. MTTR went down from hours to minutes.",
           "Launched a Backstage developer portal with 40 services in the catalog that publishes OpenAPI specifications and release reports, plus a service that collects Trivy vulnerability scan reports: 160 vulnerabilities fixed in the first month.",
-          "Built and rolled out a company-wide MCP server, and introduced RAG over Confluence and GitLab.",
+          "Built and rolled out a company-wide MCP server, and introduced RAG over Confluence and GitLab: used by the whole company, about 50 people, saving from a few hours to a few days per task.",
         ],
       },
       raif: {
@@ -285,7 +285,7 @@ const CONTENT = {
           "Перенес все сервисы скоринга в кластеры Kubernetes, перевел деплой на GitOps через Helm. Реализовал деплой и откат без простоя (rolling update): количество релизов выросло в 5 раз, с 12 до 60 в неделю.",
           "Повысил наблюдаемость: более 30 алертов в Prometheus Alertmanager, единый дашборд в Grafana со всеми оперативными метриками и синхронизацией через git, логи в едином хранилище. Время устранения инцидентов (MTTR) сократилось с часов до минут.",
           "Запустил портал разработчиков на Backstage с каталогом из 40 сервисов, публикацией OpenAPI-спецификаций и отчетов о релизах, а также сервис сбора отчетов сканера уязвимостей Trivy: за первый месяц закрыто 160 уязвимостей.",
-          "Написал и внедрил собственный MCP-сервер для работы во всей компании, внедрил RAG на базе Confluence и GitLab.",
+          "Написал и внедрил собственный MCP-сервер для работы во всей компании, внедрил RAG на базе Confluence и GitLab: им пользуется вся компания, около 50 человек, экономия от нескольких часов до нескольких дней на каждую задачу.",
         ],
       },
       raif: {
@@ -462,7 +462,7 @@ const CONTENT = {
           "Migré todos los servicios de scoring a clústeres Kubernetes y pasé el despliegue a GitOps con Helm. Implementé despliegues y rollbacks sin downtime (rolling update): los releases se multiplicaron por 5, de 12 a 60 por semana.",
           "Mejoré la observabilidad: más de 30 alertas en Prometheus Alertmanager, un dashboard único de Grafana con todas las métricas operativas sincronizado a través de git y logs en un almacenamiento único. El MTTR bajó de horas a minutos.",
           "Lancé un portal para desarrolladores en Backstage con 40 servicios en el catálogo que publica especificaciones OpenAPI y reportes de releases, y un servicio que recopila los reportes del escáner de vulnerabilidades Trivy: en el primer mes se cerraron 160 vulnerabilidades.",
-          "Desarrollé e implementé un servidor MCP propio para toda la empresa e introduje RAG sobre Confluence y GitLab.",
+          "Desarrollé e implementé un servidor MCP propio para toda la empresa e introduje RAG sobre Confluence y GitLab: lo usa toda la empresa, unas 50 personas, con un ahorro de varias horas a varios días por tarea.",
         ],
       },
       raif: {
